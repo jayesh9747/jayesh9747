@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Jayesh Savaliya</h1>
 <p align="center">A passionate backend developer from India. I have an immense interest in automating things up and contributing to open source.</p>
 
-<img align=’center’ alt=’coding’ width=’400’ src=”https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif” > </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayesh9747&label=Profile%20views&color=0e75b6&style=flat" alt="jayesh9747" /> </p>
 <ul>
   <li>🔭 Web Developer</li>
   <li>🌱 I’m currently working on React-Native</li>
